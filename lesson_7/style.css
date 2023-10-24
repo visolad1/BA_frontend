@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.block{
+    width: 150px;
+    height: 150px;
+    background-color: #f33b3b;
+    margin: 100px;
+    padding: 100px;
+}
+
+.header{
+    font-size: 15px;
+    color: aliceblue;
+}
+
+
+.header1, .header2, .header3{
+    font-size: 18px;
+}
+
+.header1{
+    margin-top: 200px;
+}
+
+.header2{
+    margin-top: 20px;
+}
