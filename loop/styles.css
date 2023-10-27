@@ -20,7 +20,7 @@
 .nav-list-item-link{
     text-decoration: none;
     color: black;
-    font-family: 'Montserrat';
+    font-family: 'Roboto Mono', monospace;
 }
 
 .logo{
@@ -30,3 +30,4 @@
 .bag-icon{
     margin-left: 30px;
 }
+
