@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.blue-square{
+    width: 436px;
+    height: 255px;
+    background-color: #56FAF0;
+    padding-top: 18px;
+    padding-left: 11px;
+}
+
+.wrapper{
+    display: flex;
+    gap: 19px;
+    margin-bottom: 25px;
+}
+
+.item1, .item2, .item3{
+    width: 98px;
+    height: 70px;
+}
+
+.item1{
+    background-color: #F8A4A4;
+}
+
+.item2 {
+    background-color: #54E28D;
+}
+
+.item3 {
+    background-color: #952CBA;
+}
+
+.text{
+    font-size: 12px;
+    font-weight: 300;
+    color: #C05757;
+}
