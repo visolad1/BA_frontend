@@ -30,24 +30,6 @@
 
 
 
-// 2
-// function getRandomColor() {
-//     const letters = '0123456789ABCDEF'
-//     color = '#'
-//     for (let i = 0; i < 6; i++) {
-//         color += letters[Math.floor(Math.random() * 16)]
-//     }
-//     return color
-// }
-
-// function changeColor() {
-//     let color = getRandomColor()
-//     document.body.style.backgroundColor = color
-// }
-
-
-// const button = document.getElementById('changeColor')
-// button.addEventListener('click', changeColor)
 
 
 // const btn = document.getElementById('btn')
